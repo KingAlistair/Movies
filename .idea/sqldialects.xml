@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/MoviesDB/ddl2.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/MoviesDB/dml_basic.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/MoviesDB/dml_multiple_columns.sql" dialect="MariaDB" />
+  </component>
+</project>
